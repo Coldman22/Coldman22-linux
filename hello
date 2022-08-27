@@ -1,0 +1,13 @@
+My name is Shishir
+^c
+
+cat hello
+^C
+
+
+exit
+
+cd..
+^C
+cat < hello
+
